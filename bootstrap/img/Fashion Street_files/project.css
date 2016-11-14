@@ -1,0 +1,68 @@
+#nav1 
+{
+	display: inline;
+	float: left;
+	position: fixed;
+}
+
+h1,#nav1{
+	color: grey;
+	font-style: italic;
+	display:inline;
+
+}
+h1{
+	color: red;
+	font-style: italic;
+	text-align: center !important;
+	font-size: 50px !important;
+
+}
+
+header{
+	background-color: pink;
+	padding-bottom: 300px;
+
+}
+#txt{
+	float: right;
+}
+
+#imp{
+	text-align: right;
+	font-size: 50;
+	font-style: italic;
+	color: grey;
+}
+
+#nav2{
+	display: inline;
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+}
+
+#siz{
+	font-size: 15px;
+	font-style: normal;
+}
+
+footer{
+	background-color: pink;
+}
+
+#sec{
+	background-color: #ffcc77;
+}
+
+body{
+	background-image: url("image12.jpg");
+}
+
+#chan,#col{
+	font-size: 25px !important;
+	font-style: normal;
+	text-align: right;
+	padding-left: 20px;
+	color: grey;
+}

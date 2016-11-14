@@ -1,0 +1,107 @@
+.name{
+	background: pink;
+	margin-top: -8px;
+}
+
+#logoname{
+	margin-top: -8px;
+}
+
+/*#home,#acc{
+	margin-top: -15px;
+}*/
+
+#slide1{
+	background: url('img/slide.jpg') top center no-repeat;
+	width: 100%;
+	margin:auto ;
+}
+
+#slide2{
+	background: url('img/slide22.png') top center no-repeat;
+	width: 100%;
+	margin: auto;
+}
+
+#slide3{
+	background: url('img/10.jpg') top center no-repeat;
+	width: 100%;
+	margin:auto;
+}
+
+#slide4{
+	background: url('img/slide4.jpg') top center no-repeat;
+	width: 100%;
+	margin:auto;
+}
+
+.navb{
+	background-color: grey;
+}
+
+.icon-bar{
+	background-color: black;
+}
+
+#row1, #row2, #row3, .row12, .row22{
+	font-family: 'Ravi Prakash', cursive;
+	text-align: center;
+
+}
+
+.body2{
+	background-image: url('img/back.jpg');
+}
+
+.overlay {
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+#body1{
+	background-image: url('img/back3.jpg') !important;
+}
+
+.overlay {
+	background
+}
+
+footer{
+	background-color: pink;
+	height: 220px;
+	margin-top: 20px;
+}
+
+#last i{
+	cursor: pointer;
+}
+
+#twit{
+	height: 70px;
+	width: 60px;
+}
+
+#face{
+	height: 70px;
+	width: 60px;
+}
+
+#pho{
+	height: 70px;
+	width: 60px;
+}
+
+#par{
+	font-family: 'Pacifico', cursive;
+	font-size: 20.5px;
+}
+
+.row12{
+	margin-top: 40px;
+}
+
+#mac, #chambor, #colorbar, #baggit, #titan, #kenneth, #wish, #shade, #cloth{
+	color: pink;
+}
